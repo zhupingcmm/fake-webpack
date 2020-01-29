@@ -1,3 +1,3 @@
-import {stuty} from "./stuty";
+import {stuty} from "./stuty.js";
 
 document.write("Congradulations for you, "+stuty("English"));
