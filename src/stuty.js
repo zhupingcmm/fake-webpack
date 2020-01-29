@@ -1,4 +1,4 @@
-import {demo} from "./demo.js";
+// import {demo} from "./demo.js";
 export function stuty(lesson){
-    return "You " + lesson +"staty very well!!!" + demo();
+    return "You " + lesson +"staty very well!!!";
 };
